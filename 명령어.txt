@@ -1,10 +1,11 @@
 echo "# woori-wonit-2026" >> README.md
 git init
-git add README.md  //readme만 추적하고 저장
+git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/bennylee-gif/woori-wonit-2026.git
 git push -u origin main
+
 git config --global user.email "bennylee@sookmyung.ac.kr"
 git config --global user.name "Benny"
 
