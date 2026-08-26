@@ -39,3 +39,22 @@ __진하게__
         - 더 하위제목
 - 목차3
 
+
+```python
+print("hello world")
+```
+
+```bash
+git init
+```
+
+```javascript
+alert("hello)
+```
+
+표
+|name|age|
+|----|---|
+|김연지|20|
+|신짱구|5|
+
